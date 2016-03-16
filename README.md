@@ -57,7 +57,7 @@ Physiologically, if you have a fixed mindset and negative attitude you will ofte
 * Being constantly unhappy thanks to an upset in the balance of hormones
 * A weakened immune system which makes you more susceptible to diseases and illnesses
 
-# Dealing With Negative Events and Rejection 
+## Dealing With Negative Events and Rejection 
 
 There are going to be ups and downs along this journey of becoming a software engineer. Be prepared for rejection from some companies -- this is an inescapable part of every job search.
 
