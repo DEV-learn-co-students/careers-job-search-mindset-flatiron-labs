@@ -101,7 +101,11 @@ To tackle these psyche issues, you can use internal and external tools to get co
 
 ## Assignment
 
-Write a journal entry that addresses the following: What mindset challenges do you struggle with the most?
+Write a couple of paragraphs that address the following: 
+
+1. What mindset challenges do you struggle with the most?
+
+Submit .....
 
 
 
