@@ -101,12 +101,9 @@ To tackle these psyche issues, you can use internal and external tools to get co
 
 ## Assignment
 
-Write a couple of paragraphs that address the following: 
+There is nothing you need to submit after this lesson. (Notice that the "Assignment" heading above doesn't have any additional text.) But complete the action item below. 
+
+Write a blog post or personal journal entry that addresses the following:
 
 1. What mindset challenges do you struggle with the most?
-
-Submit .....
-
-
-
 
