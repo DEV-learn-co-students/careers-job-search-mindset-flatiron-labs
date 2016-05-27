@@ -101,9 +101,4 @@ To tackle these psyche issues, you can use internal and external tools to get co
 
 ## Assignment
 
-There is nothing you need to submit after this lesson. (Notice that the "Assignment" heading above doesn't have any additional text.) But complete the action item below. 
-
-Write a blog post or personal journal entry that addresses the following:
-
-1. What mindset challenges do you struggle with the most?
-
+There is nothing you need to submit after this lesson. Should you want to work on your job search mindset or you are looking for strategies to stay posititve, talk to your coach.
