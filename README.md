@@ -36,7 +36,7 @@ There are two simple ways to maintain a positive attitude during the job search 
 
 * **Visualize acing the technical interviews and getting the job.** What would this feel like? Can you imagine how confident and knowledgeable you are in these technical interviews? What the mind conjures up are where actions follow.
 
-* **Team up with a fellow learner.** Other students going through the online curriculum are going through the same job search process and need help with keeping a good mindset. What better way to help each other by holding one another accountable for weekly (or even daily progress) and talking through challenges!
+* **Team up with a fellow learner.** Other students going through the online curriculum are going through the same job search process and need help with keeping a good mindset. What better way to help each other than by holding one another accountable for weekly (or even daily progress) and talking through challenges!
 
 Realize that staying positive during the process is something you choose and can continuously work on.
 
@@ -102,3 +102,5 @@ To tackle these psyche issues, you can use internal and external tools to get co
 ## Assignment
 
 There is nothing you need to submit after this lesson. Should you want to work on your job search mindset or you are looking for strategies to stay posititve, talk to your coach.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-job-search-mindset'>Your Job Search Mindset</a> on Learn.co and start learning to code for free.</p>
