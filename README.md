@@ -23,7 +23,7 @@ Here are some suggestions:
 
 * Consistently get a good night's rest
 * Exercise regularly
-* Take breaks in between hours of coding, blogging,or job search activity
+* Take breaks in between hours of coding, blogging, or job search activity
 * Be confident of your abilities and know you will improve even more over time 
 
 When your body and mind are in good shape, it’s easier for you to maintain a positive mental state.
