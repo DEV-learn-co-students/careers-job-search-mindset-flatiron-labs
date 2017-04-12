@@ -97,11 +97,7 @@ To recap,
 
 There are different ways of dealing with the ups and downs of finding a job. Recognize this is a choice on how you respond to those feelings.
 
-To tackle these psyche issues, you can use internal and external tools to get confidently back on track.
-
-## Assignment
-
-There is nothing you need to submit after this lesson. Should you want to work on your job search mindset or you are looking for strategies to stay posititve, talk to your coach. 
+To tackle these psyche issues, you can use internal and external tools to get confidently back on track. Should you want to work on your job search mindset or you are looking for strategies to stay posititve, talk to your coach. 
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/careers-job-search-mindset'>Your Job Search Mindset</a> on Learn.co and start learning to code for free.</p>
