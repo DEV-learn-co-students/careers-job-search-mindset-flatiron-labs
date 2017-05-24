@@ -86,6 +86,12 @@ Some of the most desirable attitudes are:
 
 Do you have these types of attitudes? If you don’t yet, being aware and cultivating them during your job search will put you far ahead in landing your next full-time job as an engineer.
 
+## Reminder
+
+People will be looking you up, looking into your background, and generally paying attention to your professional presence while you’re job-seeking. It’s important to maintain a professional image! Do your best to stay out of trouble: Don’t get arrested. Don’t tweet a string of profanities on your public Twitter. And remember that drug testing is a viable possibility as you are considered for a position. 
+
+:)
+
 ## Getting a Job is Easier When You're Positive
 
 To recap, 
