@@ -17,14 +17,17 @@ Being aware of your state of mind and learning to control it will help you immen
 
 ## What Puts You in a Great State of Mind? 
 
-Even when you are going through a crazy time like a career transition, you still need to take care of your mental and physical well being. Ask yourself what is most helpful for you to put you in a good state of mind, and make time for those activities, especially in times of stress.
+Even when you are going through a crazy time like a career transition, you still need to take care of your mental and physical well being. Ask yourself what is most helpful for you to put you in a good state of mind, and make time for those activities, especially in times of [stress](https://drive.google.com/file/d/1kyVAdqUKaKRw38vL5jXzYFJDQuytyKJw/view).
 
 Here are some suggestions:
 
 * Consistently get a good night's rest
 * Exercise regularly
+* Manage your time
+* Practice relaxation; deep breathing, meditation, and progressive muscle relaxation are good ways to calm yourself
 * Take breaks in between hours of coding, blogging, or job search activity
-* Be confident of your abilities and know you will improve even more over time 
+* Be confident in your abilities and know you will improve even more over time
+* Stay connected with people who can provide emotional and other types of support. It’s important to have a network of people to support you.
 
 When your body and mind are in good shape, it’s easier for you to maintain a positive mental state.
 
@@ -32,11 +35,14 @@ When your body and mind are in good shape, it’s easier for you to maintain a p
 
 A candidate with an optimistic attitude attracts more employers, makes more meaningful connections, and ultimately gets hired faster. Confidence will help you during interviews and make you more likeable.
 
-There are two simple ways to maintain a positive attitude during the job search process.
+There are three simple ways to maintain a positive attitude during the job search process.
 
 * **Visualize acing the technical interviews and getting the job.** What would this feel like? Can you imagine how confident and knowledgeable you are in these technical interviews? What the mind conjures up are where actions follow.
 
 * **Team up with a fellow learner.** Other students going through the online curriculum are going through the same job search process and need help with keeping a good mindset. What better way to help each other than by holding one another accountable for weekly (or even daily progress) and talking through challenges!
+
+* **Reach out to your coach** for support, motivation, and encouragement. They’re there for you through the ups and the downs! 
+
 
 Realize that staying positive during the process is something you choose and can continuously work on. Also know that if you have a premium account, you can reach out to your coach if you're feeling this way. This is a critical part of the job search and we're here to help you with this as well.
 
@@ -66,14 +72,16 @@ During the job search, you may have normal feelings like:
 * *Imposter Syndrome* - Being plagued by self doubt and feeling like a fraud. 
 * *Discouragement* -  When you don’t get the results you were hoping for, it’s easy to get discouraged.
 * *Lack of energy and enthusiasm* - This can happen after a long period of not a lot of progress.
+* *Frustration* - If your hard work is not yielding the desired results in the time you hoped, you receive a rejection, or overall just feel lousy throughout the process.
 
-Even though you may get these normal feelings, you can control how you respond to unfavorable setbacks. Don’t get discouraged because from every rejection, you can reflect on how it could have gone better and better prepare for subsequent interviews. 
+Even though you may experience these normal feelings, you can control how you respond to unfavorable setbacks. Don’t get discouraged. Instead, reflect on how it could have gone better and change your approach or improve your preparation for subsequent interviews.
 
-For getting through these rough patches, you can vent to your career counselor, a friend, partner, or therapist whenever you need it. 
+For getting through these rough patches, you can vent to your Career Coach, a friend, partner, or therapist whenever you need it.
+ 
 
 ## Your Attitude Means a Lot To Employers
 
-Employers don’t just want someone who knows programming fundamentals, JavaScript, or the latest framework, they want a candidate with certain attitudes that will make them a positive addition to their team.
+Employers don’t just want someone who knows programming fundamentals, or the latest framework. They want a candidate with certain attitudes that will make them a positive addition to their team.
 
 Some of the most desirable attitudes are:
 
@@ -84,13 +92,8 @@ Some of the most desirable attitudes are:
 * *Enthusiasm* - During interviews, do you express sincere interest for company’s mission and the role you would be growing into?
 * *Honesty* - Are you upfront about what you do or don’t know? If you don’t know something, you can always say you’ll put time into learning the new skill.
 
-Do you have these types of attitudes? If you don’t yet, being aware and cultivating them during your job search will put you far ahead in landing your next full-time job as an engineer.
+Do you have these types of attitudes? If you don’t yet, being aware and cultivating them during your job search will put you far ahead in landing your next full-time job as a developer.
 
-## Reminder
-
-People will be looking you up, looking into your background, and generally paying attention to your professional presence while you’re job-seeking. It’s important to maintain a professional image! Do your best to stay out of trouble: Don’t get arrested. Don’t tweet a string of profanities on your public Twitter. And remember that drug testing is a viable possibility as you are considered for a position. 
-
-:)
 
 ## Getting a Job is Easier When You're Positive
 
