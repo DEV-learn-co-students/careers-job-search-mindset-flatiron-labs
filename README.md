@@ -17,7 +17,7 @@ Being aware of your state of mind and learning to control it will help you immen
 
 ## What Puts You in a Great State of Mind? 
 
-Even when you are going through a crazy time like a career transition, you still need to take care of your mental and physical well being. Ask yourself what is most helpful for you to put you in a good state of mind, and make time for those activities, especially in times of [stress](https://drive.google.com/file/d/1kyVAdqUKaKRw38vL5jXzYFJDQuytyKJw/view).
+Even when you are going through a crazy time like a career transition, you still need to [take care](http://selfcare.tech/?mc_cid=0c95fd95e1&mc_eid=e59c401342) of your mental and physical well being. Ask yourself what is most helpful for you to put you in a good state of mind, and make time for those activities, especially in times of [stress](https://drive.google.com/file/d/1kyVAdqUKaKRw38vL5jXzYFJDQuytyKJw/view).
 
 Here are some suggestions:
 
