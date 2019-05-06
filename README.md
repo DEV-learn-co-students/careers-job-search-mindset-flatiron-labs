@@ -1,6 +1,6 @@
 # Your Job Search Mindset 
 
-Going through the career transition of becoming a software engineer will be challenging at times. It requires a growth mindset and positive attitude to power through the process.
+Going through a career transition will be challenging at times. It requires a growth mindset and positive attitude to power through the process.
 
 As Carol Dweck explained in her book *Mindset: New Psychology of Success*, a growth mindset is powerful because you believe your “talents and abilities can be developed through effort, good teaching, and persistence.”
 
@@ -25,7 +25,7 @@ Here are some suggestions:
 * Exercise regularly
 * Manage your time
 * Practice relaxation; deep breathing, meditation, and progressive muscle relaxation are good ways to calm yourself
-* Take breaks in between hours of coding, blogging, or job search activity
+* Take breaks in between hours of skills practice, blogging or job search activity
 * Be confident in your abilities and know you will improve even more over time
 * Stay connected with people who can provide emotional and other types of support. It’s important to have a network of people to support you.
 
@@ -37,7 +37,7 @@ A candidate with an optimistic attitude attracts more employers, makes more mean
 
 There are three simple ways to maintain a positive attitude during the job search process.
 
-* **Visualize acing the technical interviews and getting the job.** What would this feel like? Can you imagine how confident and knowledgeable you are in these technical interviews? What the mind conjures up are where actions follow.
+* **Visualize acing the interviews and getting the job.** What would this feel like? Can you imagine how confident and knowledgeable you are in these interviews? What the mind conjures up are where actions follow.
 
 * **Team up with a fellow learner.** Other students going through the online curriculum are going through the same job search process and need help with keeping a good mindset. What better way to help each other than by holding one another accountable for weekly (or even daily progress) and talking through challenges!
 
@@ -65,7 +65,7 @@ Physiologically, if you have a fixed mindset and negative attitude you will ofte
 
 ## Dealing With Negative Events and Rejection 
 
-There are going to be ups and downs along this journey of becoming a software engineer. Be prepared for rejection from some companies -- this is an inescapable part of every job search.
+There are going to be ups and downs along this journey. Be prepared for rejection from some companies -- this is an inescapable part of every job search.
 
 During the job search, you may have normal feelings like:
 
@@ -92,7 +92,7 @@ Some of the most desirable attitudes are:
 * *Enthusiasm* - During interviews, do you express sincere interest for company’s mission and the role you would be growing into?
 * *Honesty* - Are you upfront about what you do or don’t know? If you don’t know something, you can always say you’ll put time into learning the new skill.
 
-Do you have these types of attitudes? If you don’t yet, being aware and cultivating them during your job search will put you far ahead in landing your next full-time job as a developer.
+Do you have these types of attitudes? If you don’t yet, being aware and cultivating them during your job search will put you far ahead in landing your next full-time job.
 
 
 ## Getting a Job is Easier When You're Positive
@@ -107,6 +107,3 @@ To recap,
 There are different ways of dealing with the ups and downs of finding a job. Recognize this is a choice on how you respond to those feelings.
 
 To tackle these psyche issues, you can use internal and external tools to get confidently back on track. Should you want to work on your job search mindset or you are looking for strategies to stay positive, talk to your coach. 
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/careers-job-search-mindset'>Your Job Search Mindset</a> on Learn.co and start learning to code for free.</p>
